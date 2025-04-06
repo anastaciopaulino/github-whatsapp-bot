@@ -68,7 +68,5 @@ Feel free to contribute to this project. To do so:
   3. Make your changes and test.
   4. Submit a pull request to the main branch.
 
-## License
-This project is licensed under the MIT License.
 
 
